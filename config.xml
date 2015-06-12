@@ -11,7 +11,7 @@
 	    Utilizar Plugins de audio con un piano y las 7 notas musicales junio  2015
 	</description>
 	
-	<preference name="phonegap-version" value="3.1.0"/>
+	<preference name="phonegap-version" value="3.1.0" />
 <!-- forzar la orientacion a horizontal -->
     <preference name="orientation" value="landscape" />	
 	
